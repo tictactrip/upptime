@@ -12,14 +12,3 @@ sites:
 
 assignees:
   - rimiti
-
-status-website:
-  logoUrl: https://www.zupimages.net/up/19/25/5ixi.png
-  name: Tictactrip
-  introTitle: "**Tictactrip** is the first booking platform for direct and intermodal routes in bus, train and carpooling in Europe."
-  introMessage: Tictactrip optimises accessibility, price and time of your trip, while managing your carbon emission. We are the French leader with 200 000 visits a month and have raised close to 1M€.
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
