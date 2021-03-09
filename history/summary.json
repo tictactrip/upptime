@@ -4,9 +4,9 @@
     "url": "https://www.tictactrip.eu",
     "icon": "https://favicons.githubusercontent.com/www.tictactrip.eu",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 439,
     "timeMonth": 439,
     "timeYear": 439,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-09": 0
+    }
   },
   {
     "name": "Blog",
     "url": "https://www.tictactrip.eu/blog",
     "icon": "https://favicons.githubusercontent.com/www.tictactrip.eu",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 1028,
     "timeMonth": 1028,
     "timeYear": 1028,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-09": 0
+    }
   },
   {
     "name": "API",
     "url": "https://api.tictactrip.eu",
     "icon": "https://favicons.githubusercontent.com/api.tictactrip.eu",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +55,8 @@
     "timeWeek": 404,
     "timeMonth": 404,
     "timeYear": 404,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-09": 0
+    }
   }
 ]
