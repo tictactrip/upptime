@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 517,
-    "timeDay": 397,
-    "timeWeek": 505,
-    "timeMonth": 578,
-    "timeYear": 517,
+    "time": 521,
+    "timeDay": 748,
+    "timeWeek": 507,
+    "timeMonth": 589,
+    "timeYear": 521,
     "dailyMinutesDown": {
       "2021-03-09": 157
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 746,
-    "timeDay": 414,
-    "timeWeek": 564,
-    "timeMonth": 727,
-    "timeYear": 746,
+    "time": 748,
+    "timeDay": 892,
+    "timeWeek": 592,
+    "timeMonth": 715,
+    "timeYear": 748,
     "dailyMinutesDown": {
       "2021-03-09": 157
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/api.tictactrip.eu",
     "slug": "api",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
-    "uptimeYear": "99.82%",
-    "time": 794,
-    "timeDay": 430,
-    "timeWeek": 2778,
-    "timeMonth": 1176,
-    "timeYear": 794,
+    "uptimeYear": "99.83%",
+    "time": 791,
+    "timeDay": 577,
+    "timeWeek": 2772,
+    "timeMonth": 1175,
+    "timeYear": 791,
     "dailyMinutesDown": {
       "2021-05-03": 6,
       "2021-03-09": 157
